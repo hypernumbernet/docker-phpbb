@@ -1,4 +1,4 @@
-FROM php:7.1-apache
+FROM php:5-apache
 
 MAINTAINER Tomohito Inoue <hypernumbernet@users.noreply.github.com>
 
